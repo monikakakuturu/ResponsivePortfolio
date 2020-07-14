@@ -1,0 +1,39 @@
+hr {
+  border: 2px solid green;
+}
+
+h1 {
+  color: coral;
+  padding-top: 30px;
+}
+
+.navbar-brand {
+  font-size: 25px;
+  background-color: darkcyan;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.card-img {
+  padding: 20px;
+}
+
+.card {
+  width: 30rem;
+  left: 20px;
+}
+
+.card-body {
+  position: relative;
+  bottom: 100px;
+  background-color: turquoise;
+  text-align: center;
+}
+
+footer {
+  margin: 50px;
+  text-align: center;
+  padding: 20px;
+  background-color: DarkSalmon;
+  color: white;
+}
